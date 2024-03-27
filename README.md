@@ -1,6 +1,9 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/4qIAkGT-)
-# Visión y Misión
 
+
+#EMPRESA: ZONA FRANCA
+![image](https://github.com/UPT-FAING-EPIS/proyecto-si885-2024-i-u1-cano_chambilla_jarro_rivera_valverde/assets/90207080/e1630f30-5291-4ba8-bf34-60128adfca45)
+# Visión y Misión
 ## Misión
 
 Contribuir al desarrollo de la Región Tacna, mediante la promoción de oportunidades
