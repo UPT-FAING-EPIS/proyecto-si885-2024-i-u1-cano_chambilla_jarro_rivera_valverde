@@ -1,5 +1,3 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/4qIAkGT-)
-
 ![image](https://github.com/UPT-FAING-EPIS/proyecto-si885-2024-i-u1-cano_chambilla_jarro_rivera_valverde/assets/90207080/e1630f30-5291-4ba8-bf34-60128adfca45)
 # Visión y Misión
 ## Misión
@@ -13,7 +11,6 @@ y competitividad.
 Ser la zona franca líder en el Perú y en la parte central de América del Sur.
 
 ## Objetivos Estratégicos
-
 1. Fortalecer y dinamizar el desarrollo de la Zona Franca y la Zona Comercial de Tacna.
-2. Fortalecer la Gestión interna de ZOFRATACNA
-3. Activar la Gestión del Riesgo de Desastres
+2. Fortalecer la Gestión interna de ZOFRATACNA.
+3. Activar la Gestión del Riesgo de Desastres.
