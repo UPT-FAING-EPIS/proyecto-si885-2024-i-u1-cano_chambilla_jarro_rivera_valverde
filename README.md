@@ -21,8 +21,30 @@ Ser la zona franca líder en el Perú y en la parte central de América del Sur.
 
 ## Objetivos Estratégicos
 1. Fortalecer y dinamizar el desarrollo de la Zona Franca y la Zona Comercial de Tacna.
+  1.1 Modernizar la infraestuctura tecnológica
+  1.2 Mejorar los servicios de los clientes
+  1.3 Desarrollar nuevos servicios
+  1.4 Mejorar la estrategia comercial
 2. Fortalecer la Gestión interna de ZOFRATACNA.
-3. Activar la Gestión del Riesgo de Desastres.
+  2.1 Mejorar la sinergía de Marketing y ventas
+  2.2 Mejorar la retención de usuarios instalados en la Zona Franca de Tacna
+  2.3 Implementar proyectos de mejora de infraestructura inmobiliaria
+  2.4 Mejora las sinergias de eslabonamientos productivos
+3. Impulsar el Desarrollo de la Zona Comercial.
+   3.1 Promover el Negocio Electrónico
+   3.2 Mejorar las capacidades empresariales de los usuarios
+   3.3 Incrementar las importaciones de origen
+4. Potenciar el Sistema ZOFRATACNA.
+   4.1 Desarrollar las competencias de la fuerza laboral acorde a las
+       necesidades institucionales
+   4.2 Optimizar el uso de los recursos financieros
+   4.3 Mantener y ampliar el uso de estándares internacionales
+   4.4 Mejorar la cultura organizacional y el clima laboral
+   4.5 Actualizar el marco normativo del Sistema ZOFRATACNA
+   4.6 Mejorar el control del ingreso, permanencia y salida de
+       mercancías
+   4.7 Instruir al usuario del sistema en el marco normativo del
+       comercio exterior
 
 ## Organigrama
 
