@@ -24,5 +24,7 @@ Ser la zona franca líder en el Perú y en la parte central de América del Sur.
 2. Fortalecer la Gestión interna de ZOFRATACNA.
 3. Activar la Gestión del Riesgo de Desastres.
 
+##Organigrama
+
 ![organigrama](zofratacna.png)
 
