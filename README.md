@@ -28,3 +28,10 @@ Ser la zona franca líder en el Perú y en la parte central de América del Sur.
 
 ![organigrama](zofratacna.png)
 
+## Objetivos estratégicos relacionados con sus respectivos Órganos
+
+![sol1](sol1.png)
+![sol2](sol2.png)
+![sol3](sol3.png)
+
+
